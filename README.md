@@ -1,11 +1,21 @@
-## GitHub Stats
+# 💫 About Me:
+Hey there! 👋<br>My name is Luiz Fellipe, and I'm from Brazil! 🇧🇷<br>I'm a developer, studying hard to improve everyday. 👦🏻
 
-<div>
-  <a href="https://github.com/Luizfdarb">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfdarb&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfdarb&layout=compact&langs_count=7&theme=calm"/>
-  </a>
-</div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fellipe2023/) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![EXPRESS.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Luizfdarb&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfdarb&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
  ##
   _____________________________________________________________________________________________
