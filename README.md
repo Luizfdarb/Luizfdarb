@@ -23,3 +23,9 @@ Hey there! 👋<br>My name is Luiz Fellipe, and I'm from Brazil! 🇧🇷<br>I'm
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#
+ <div>
+  <a href="https://github.com/Luizfdarb">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfdarb&show_icons=true&include_all_commits=true&count_private=true&bg_color=FEBD69&title_color=000000&text_color=333333&icon_color=000000"/>
+</div>
